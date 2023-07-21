@@ -1,7 +1,10 @@
 ## ProjectMarkCodingChallenge
 This project implements a dashboard screen for practical testing purposes.
 
+![screenshot](https://github.com/IMeinen/ProjectMarkCodingChallenge/blob/main/projectMarkScreenshoot.png)
+
 ## Installation and Setup Instructions
+
 
 #### Example:  
 
